@@ -1,0 +1,30 @@
+[
+  {
+    "marketplace": "BOSS",
+    "listing": "Improve ComfyUI integration",
+    "advertisedAmount": "1050 USD",
+    "sourceIssueUrl": "https://github.com/jbilcke-hf/clapper/issues/5",
+    "searchTerms": ["ComfyUI integration"]
+  },
+  {
+    "marketplace": "BOSS",
+    "listing": "Add FixedSizeBinary",
+    "advertisedAmount": "1000 USD",
+    "sourceIssueUrl": "https://github.com/spaceandtimefdn/sxt-proof-of-sql/issues/229",
+    "searchTerms": ["FixedSizeBinary"]
+  },
+  {
+    "marketplace": "Opire",
+    "listing": "Problem with storybook-controls of type select",
+    "advertisedAmount": "263 USD",
+    "sourceIssueUrl": "https://github.com/storybookjs/storybook/issues/12641",
+    "searchTerms": ["storybook-controls type select"]
+  },
+  {
+    "marketplace": "Opire",
+    "listing": "Migration generation drops and creates columns",
+    "advertisedAmount": "590 USD",
+    "sourceIssueUrl": "https://github.com/typeorm/typeorm/issues/3357",
+    "searchTerms": ["migration generation drops creates columns"]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "bounty-integrity-sweep",
+  "version": "0.1.0",
+  "description": "Evidence-first claimability checks for public software bounties",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "bounty-sweep": "src/cli.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "bounty",
+    "github",
+    "open-source",
+    "marketplace",
+    "audit"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "audit": "node src/cli.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
